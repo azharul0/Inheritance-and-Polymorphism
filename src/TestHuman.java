@@ -12,6 +12,7 @@ public class TestHuman {
         Joe joe1 = new Joe();
         joe1.move();
         joe1.job();
+        System.out.println("Hello");
 
     }
 }

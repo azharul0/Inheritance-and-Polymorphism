@@ -6,4 +6,5 @@ public class Human {
     public void job (){
         System.out.println("This human does not have a job.\n");
     }
+
 }
